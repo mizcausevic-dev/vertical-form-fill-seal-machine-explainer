@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/vertical-form-fill-seal-machine-explainer/
 
+Repository: https://github.com/mizcausevic-dev/vertical-form-fill-seal-machine-explainer
+
 ## What this is
 
 An interactive anatomy plate for Vertical Form-Fill-Seal Machine. Play, scrub, or jump the five stages. The same frame always draws the same picture.
